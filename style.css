@@ -1,0 +1,28 @@
+body{
+    background-color: blue; }
+       
+       h2{
+           font-size: larger;
+           font-style: italic;
+           
+       }
+       h3{
+           font-size: large;
+           color: darkgoldenrod;
+       
+       }
+       h4{
+           font-size: medium;
+           color: black;
+       }
+   
+       h5{
+           font-size: medium;
+           color: chartreuse;
+   
+       }
+       h6{ 
+           font-size: small;
+           color: black;
+       }
+   
